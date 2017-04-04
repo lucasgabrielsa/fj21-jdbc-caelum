@@ -16,7 +16,7 @@ public class TestaInsereContatoDAO {
 		
 		contato.setNome("Lucas Gabriel");
 		contato.setEmail("lucasgabrielsa@hotmail.com");
-		contato.setEndereco("Av. José Miguel Saramago 17");
+		contato.setEndereco("Av. Jose Miguel Saramago 17");
 		contato.setDataNascimento(Calendar.getInstance());
 		
 		dao.adiciona(contato);

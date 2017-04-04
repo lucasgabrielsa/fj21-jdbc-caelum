@@ -8,7 +8,7 @@ public class ConnectionFactory {
 	
 	private final String STRING_CONEXAO = "jdbc:mysql://localhost/fj21";
 	private final String USER = "root";
-	private final String PASS = "201398";
+	private final String PASS = "123";
 
 	
 	public Connection getConnection() {
